@@ -1,0 +1,7 @@
+{
+  "name": "Aref",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
